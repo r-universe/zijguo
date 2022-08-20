@@ -8,3 +8,8 @@
 	url = https://github.com/zijguo/highdim-additive-inference
 	shallow = true
 	registered = true
+[submodule "RobustIV"]
+	path = RobustIV
+	url = https://github.com/zijguo/robustiv
+	shallow = true
+	registered = true
