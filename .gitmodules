@@ -8,11 +8,6 @@
 	url = https://github.com/zijguo/controlfunctioniv
 	shallow = true
 	registered = true
-[submodule "DLL"]
-	path = DLL
-	url = https://github.com/zijguo/highdim-additive-inference
-	shallow = true
-	registered = true
 [submodule "RobustIV"]
 	path = RobustIV
 	url = https://github.com/zijguo/robustiv
