@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "controlfunctionIV"]
-	path = controlfunctionIV
-	url = https://github.com/zijguo/controlfunctioniv
 [submodule "DLL"]
 	path = DLL
 	url = https://github.com/zijguo/highdim-additive-inference
 [submodule "RobustIV"]
 	path = RobustIV
 	url = https://github.com/zijguo/robustiv
+[submodule "controlfunctionIV"]
+	path = controlfunctionIV
+	url = https://github.com/zijguo/controlfunctioniv
